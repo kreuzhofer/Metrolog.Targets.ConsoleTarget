@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Metrolog.Targets.ConsoleTarget")]
+[assembly: AssemblyTitle("MetroLog.Targets.ConsoleTarget")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Metrolog.Targets.ConsoleTarget")]
-[assembly: AssemblyCopyright("Copyright ©  2015")]
+[assembly: AssemblyProduct("MetroLog.Targets.ConsoleTarget")]
+[assembly: AssemblyCopyright("Copyright ©  2015 - Daniel Kreuzhofer")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

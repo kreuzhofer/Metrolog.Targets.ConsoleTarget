@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metrolog.Targets.ConsoleTarget", "Metrolog.Targets.ConsoleTarget\Metrolog.Targets.ConsoleTarget.csproj", "{5C32BDC5-141A-4502-859A-7CD6FEDF69EF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetroLog.Targets.ConsoleTarget", "Metrolog.Targets.ConsoleTarget\MetroLog.Targets.ConsoleTarget.csproj", "{5C32BDC5-141A-4502-859A-7CD6FEDF69EF}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{3E586881-DA64-4D6C-963E-654E2F5F0D11}"
 	ProjectSection(SolutionItems) = preProject

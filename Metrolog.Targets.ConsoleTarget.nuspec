@@ -1,17 +1,24 @@
 <?xml version="1.0"?>
 <package >
   <metadata>
-    <id>$id$</id>
-    <version>$version$</version>
-    <title>$title$</title>
-    <authors>$author$</authors>
-    <owners>$author$</owners>
+    <id>MetroLog.Targets.ConsoleTarget</id>
+    <version>1.0.0</version>
+    <title>MetroLog.Targets.ConsoleTarget</title>
+    <authors>Daniel Kreuzhofer (@dkreuzh)</authors>
+    <owners>Daniel Kreuzhofer (@dkreuzh)</owners>
     <licenseUrl>http://opensource.org/licenses/ms-pl</licenseUrl>
     <projectUrl>https://github.com/kreuzhofer/Metrolog.Targets.ConsoleTarget</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>Simple Console Logger Target for Metrolog (useful if you are using console applications)</description>
+    <description>Simple Console Logger Target for MetroLog (useful if you are using console applications)</description>
     <releaseNotes>Intial version</releaseNotes>
     <copyright>Copyright 2015 - Daniel Kreuzhofer</copyright>
     <tags>MetroLog Console net45</tags>
+	<dependencies>
+		<dependency id="MetroLog" version="0.8.7.1" />
+	</dependencies>
   </metadata>
+
+	<files>
+		<file src="bin\MetroLog.Targets.ConsoleTarget.dll" target="lib\net45\MetroLog.Targets.ConsoleTarget.dll" />
+	</files>
 </package>

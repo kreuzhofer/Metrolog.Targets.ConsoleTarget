@@ -7,8 +7,8 @@
     <ProjectGuid>{5C32BDC5-141A-4502-859A-7CD6FEDF69EF}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Metrolog.Targets.ConsoleTarget</RootNamespace>
-    <AssemblyName>Metrolog.Targets.ConsoleTarget</AssemblyName>
+    <RootNamespace>MetroLog.Targets.ConsoleTarget</RootNamespace>
+    <AssemblyName>MetroLog.Targets.ConsoleTarget</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <SolutionDir Condition="$(SolutionDir) == '' Or $(SolutionDir) == '*Undefined*'">..\</SolutionDir>
