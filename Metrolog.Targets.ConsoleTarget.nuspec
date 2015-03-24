@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+    <licenseUrl>http://opensource.org/licenses/ms-pl</licenseUrl>
+    <projectUrl>https://github.com/kreuzhofer/Metrolog.Targets.ConsoleTarget</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Simple Console Logger Target for Metrolog (useful if you are using console applications)</description>
+    <releaseNotes>Intial version</releaseNotes>
+    <copyright>Copyright 2015 - Daniel Kreuzhofer</copyright>
+    <tags>MetroLog Console net45</tags>
+  </metadata>
+</package>
