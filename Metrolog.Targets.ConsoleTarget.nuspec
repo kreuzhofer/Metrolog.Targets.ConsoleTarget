@@ -14,11 +14,11 @@
     <copyright>Copyright 2015 - Daniel Kreuzhofer</copyright>
     <tags>MetroLog Console net45</tags>
 	<dependencies>
-		<dependency id="MetroLog" version="0.8.7.1" />
+		<dependency id="MetroLog" version="0.8.6" />
 	</dependencies>
   </metadata>
 
 	<files>
-		<file src="bin\MetroLog.Targets.ConsoleTarget.dll" target="lib\net45\MetroLog.Targets.ConsoleTarget.dll" />
+		<file src="Metrolog.Targets.ConsoleTarget\bin\Release\MetroLog.Targets.ConsoleTarget.dll" target="lib\net45\MetroLog.Targets.ConsoleTarget.dll" />
 	</files>
 </package>
